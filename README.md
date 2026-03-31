@@ -4,8 +4,7 @@
 **Course:** Open Source Software | VITyarthi
 **Student Name:** Eshaani Sharma
 **Roll Number:** 24BCE10392
-**Chosen Software:** Git (Licensed under GPL v2)
-
+**Chosen Software:** MySQL
 ---
 
 ## >> About This Project
