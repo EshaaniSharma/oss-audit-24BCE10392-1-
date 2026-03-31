@@ -1,10 +1,10 @@
 # oss-audit-24BCE10392
 # The Open Source Audit — MySQL
 ### Open Source Software (OSS) Capstone Project
-**Course:** Open Source Software | VITyarthi
-**Student Name:** Eshaani Sharma
-**Roll Number:** 24BCE10392
-**Chosen Software:** MySQL
+*Course:** Open Source Software | VITyarthi
+*Student Name:** Eshaani Sharma
+*Roll Number:** 24BCE10392
+*Chosen Software:** MySQL
 ---
 
 ## >> About This Project
