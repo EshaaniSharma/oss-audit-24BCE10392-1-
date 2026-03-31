@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Script 2: FOSS Package Inspector
 # Author: Eshaani Sharma | Roll: 24BCE10392
 # Course: Open Source Software | Software Choice: MySQL
